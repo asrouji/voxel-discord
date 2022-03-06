@@ -1,0 +1,22 @@
+{
+  "name": "voxel_discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "chokidar": "^3.5.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "opus": "0.0.0",
+    "yt-search": "^2.10.0",
+    "ytdl-core": "^4.9.0"
+  }
+}
