@@ -1,3 +1,5 @@
+// Credit to CodeLyon for base music bot tutorial
+
 const ytdl = require('ytdl-core');
 const ytSearch = require('yt-search');
 
